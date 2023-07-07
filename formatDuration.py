@@ -1,3 +1,5 @@
+#Difficulty: 4 kyu
+
 def format_duration(seconds):
     if seconds == 0:
         return "now"
