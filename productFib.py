@@ -1,3 +1,5 @@
+#Difficulty: 5 kyu
+
 def productFib(prod):
     sequence = []
     def fibSequence(v, n):
