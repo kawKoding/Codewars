@@ -1,3 +1,5 @@
+# Difficulty: 4 kyu
+
 '''
 class Node:
     def __init__(self, L, R, n):
