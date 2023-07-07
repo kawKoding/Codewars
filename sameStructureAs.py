@@ -1,3 +1,5 @@
+#Difficulty: 4 kyu
+
 def same_structure_as(original, other):
     def recursLength(lis):
         count = len(lis)
